@@ -5,6 +5,6 @@ this is a very simple posting comment app to be apply CA principles on , i hope 
 
 ### technologies
 
-1- Nodejs as backend
-2- Inversify as dependency injector
-3- all written in typescript
+- Nodejs as backend
+- Inversify as dependency injector
+- all written in typescript
